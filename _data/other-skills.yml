@@ -1,0 +1,7 @@
+- name: Git
+  percentage: 95
+  color: info
+
+- name: Agile Methodologies
+  percentage: 80
+  color: success

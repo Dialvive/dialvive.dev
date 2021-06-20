@@ -1,36 +1,27 @@
 <!DOCTYPE html>
-<html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <meta content="The online site of Diego Villalpando" name="description">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bulma/0.6.0/css/bulma.min.css" type="text/css">
-  <link rel="stylesheet" href="/css/main.css" type="text/css">
-  <link rel="canonical" href="{{ site.url }}{{ page.url }}"/>
-  <script src="/js/helpers.js"></script>
-  <title>Diego Villalpando &mdash; {{ page.title }}</title>
-</head>
+<!--
+  portfolYOU Jekyll theme by Youssef Raafat
+  Free for personal and commercial use under the MIT license
+  https://github.com/YoussefRaafatNasry/portfolYOU
+-->
 
-<body>
-  {% include nav.html %}
-  {% include hero.html %}
+<html lang="en" class="h-100">
 
-  <section class="section main-section">
-    <div class="container">
-      <div class="columns is-desktop">
-        <div class="column is-half is-offset-one-quarter">
-          <div class="content">
-            {{ content }}
-          </div>
-        </div>
-      </div>
-    </div>
-  </section>
+{% include head.html %}
+
+<body class="h-100 d-flex flex-column">
+
+  <main class="flex-shrink-0 container mt-5">
+    {% include navbar.html %}
+    {{ content }}
+  </main>
 
   {% include footer.html %}
+
   {% include analytics.html %}
+  {% include scripts.html %}
+
 </body>
 
 </html>

@@ -1,0 +1,11 @@
+- name: Java
+  percentage: 80
+  color: danger
+
+- name: Go
+  percentage: 60
+  color:
+
+- name: Angular
+  percentage: 80
+  color: secondary

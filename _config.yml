@@ -1,28 +1,88 @@
----
-title: Diego Villalpando
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-enforce_ssl: dialvive.dev
-highlighter: rouge
-livereload: true
-lsi: false
-markdown: kramdown
-port: 3000
-url: https://dialvive.dev
+### Site Settings ###
+title               : Diego Villalpando
+description         : >-
+                      Software developer,
+                      gastronomy & horticulture hobbyist.
+baseurl             : ""
+repository          : dialvive/dialvive.github.io
+#remote_theme        : YoussefRaafatNasry/portfolYOU
+
+
+### Plugins ###
+plugins:
+  - jemoji
+
+
+### Navbar Settings ###
+nav_exclude:                                            # The following paths are excluded from navbar
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+
+### Author Info ###
+author:
+  name              : Diego Villalpando
+  image             : https://avatars.githubusercontent.com/u/30503143
+# behance           : your_username
+# dribbble          : your_username
+  email             : dialvive@protonmail.com
+# facebook          : your_username
+  github            : dialvive
+# gitlab            : your_username
+# instagram         : your_username
+# kaggle            : your_username
+  linkedin          : diegovillalpando
+# medium            : your_username
+# soundcloud        : your_username
+# spotify           : your_username
+# stackoverflow     : your_user_id
+# tumblr            : your_username.tumblr.com
+# twitch            : your_username
+# twitter           : your_username
+# vimeo             : your_username
+# youtube           : your_channel_name
+# keybase           : your_username
+
+
+### Posts ###
 permalink: /blog/:year/:month/:day/:title
-owner:
-  name: Diego Villalpando
-  login: dialvive
-  email: dialvive@protonmail.com
+
+
+### Collections ###
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+
+
+### Disqus ###
+disqus:
+  shortname: dialvive
+
+
+### Analytics ###
+analytics:
+  enabled: true
+  google:
+    tracking_id: G-S0DCXYPLYZ
+
+
+### Defaults for collections ###
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: true
+
+### Exclude from processing ###
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"
