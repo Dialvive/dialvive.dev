@@ -14,12 +14,12 @@ Cooking is one of my hobbies: I find french, italian, and mexican cuisines reall
 
 As you may have noticed (or not), I'm also a horticulture hobbyist. I started out planting zuccini plants (which yielded about 10 zuccinis before a fungi plague struck). I find it specially insightful to care for a living being that produces food from the ground. Also, home grown veggies and friuts are a lot more juicy and flavourful than store bought.
 
-Depending on the day: my favourite color is black or yellow, and  my favorite dessert is icecream or date pie.
+Depending on the day: my favourite color is black or yellow, and  my favorite dessert is ice-cream or date pie.
 
 I think that's it for the meantime. Please leave a comment if you feel like it! :wink:
 
-<iframe 
-    src="https://open.spotify.com/embed/playlist/6xOja2U0gtvW2jxoZx5OEQ" 
+<iframe
+    src="https://open.spotify.com/embed/playlist/6xOja2U0gtvW2jxoZx5OEQ"
     height="380"
     frameborder="0"
     allowtransparency="true"
