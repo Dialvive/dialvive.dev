@@ -1,43 +1,54 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+  background-color: #edf1f3;
+  color: #222;
+  font-family: 'Helvetica Neue', 'Helvetica', sans-serif;
 }
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
+
+a:link {
+  color: #336699;
+  text-decoration: none;
 }
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
+
+a:visited {
+  color: #660000;
+  text-decoration: none;
 }
-a {
-    text-decoration: none;
-    color: #999;
-}
+
 a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
+  color: #336699;
 }
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
+dl dt {
+  font-weight: bold;
 }
 
-ul.posts li {
-    list-style: none;
+dd {
+  margin: 0 0 1.5rem 0;
+}
+
+/* classes */
+
+.content dd {
+  margin-left: 0;
+}
+
+.main-section {
+  border-top: 1px solid #dbdbdb;
+  border-bottom: 1px solid #dbdbdb;
+
+}
+
+.post p {
+  font-family: 'Georgia', 'Times New Roman', serif;
+  font-size: 13pt;
+}
+
+.post .signoff {
+  font-size: 12pt;
+  font-style: italic;
+  text-align: right;
+}
+
+.units-container h1 {
+  padding-bottom: .2em;
 }
