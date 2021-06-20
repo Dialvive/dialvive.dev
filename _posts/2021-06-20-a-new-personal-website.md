@@ -17,11 +17,3 @@ As you may have noticed (or not), I'm also a horticulture hobbyist. I started ou
 Depending on the day: my favourite color is black or yellow, and  my favorite dessert is ice-cream or date pie.
 
 I think that's it for the meantime. Please leave a comment if you feel like it! :wink:
-
-<iframe
-    src="https://open.spotify.com/embed/playlist/6xOja2U0gtvW2jxoZx5OEQ"
-    height="380"
-    frameborder="0"
-    allowtransparency="true"
-    allow="encrypted-media"
-></iframe>
