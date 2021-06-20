@@ -21,6 +21,7 @@ lsi: false
 markdown: kramdown
 port: 3000
 url: https://dialvive.dev
+permalink: /blog/:year/:month/:day/:title
 owner:
   name: Diego Villalpando
   login: dialvive
