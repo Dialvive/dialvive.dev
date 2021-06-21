@@ -1,6 +1,6 @@
 ---
 title: Grandma's Cheese dumplings soup
-tags: [Personal, Recipe, Soup]
+tags: [Recipes, Soups]
 style: fill
 color: warning
 description: My favourite grandma's soup

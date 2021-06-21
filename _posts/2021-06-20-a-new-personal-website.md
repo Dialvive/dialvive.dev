@@ -1,6 +1,6 @@
 ---
 title: A new personal website
-tags: [Personal, Professional]
+tags: [Personal]
 style: fill
 color: light
 description: Yet another software developer personal website/blog
