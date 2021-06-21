@@ -2,7 +2,7 @@
 title: Grandma's cheese dumplings soup
 tags: [Recipes, Soups]
 style: fill
-color: warning
+color: light
 description: My favourite grandma's soup
 ---
 
