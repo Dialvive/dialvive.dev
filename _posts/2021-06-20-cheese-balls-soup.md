@@ -1,12 +1,12 @@
 ---
-title: Grandma's Cheese balls soup
+title: Grandma's Cheese dumplings soup
 tags: [Personal, Recipe, Soup]
 style: fill
 color: warning
 description: My favourite grandma's soup
 ---
 
-There were many times in my childhood when I was doing anything in my house, when I suddenly perceived a delightful smell, sometimes I would try to resist and continue to mind my business, but I never resisted and always went to the kitchen to ask "What are you doing? :eyes:". Well, when my grandmother cooked her cheese balls soup I instantly recognized the smell and ran to see if I could steal a spoonful or two, I always had to wait for it to be ready, but managed to steal a cheese ball.
+There were many times in my childhood when I was doing anything in my house, when I suddenly perceived a delightful smell, sometimes I would try to resist and continue to mind my business, but I never resisted and always went to the kitchen to ask "What are you doing? :eyes:". Well, when my grandmother cooked her cheese dumplings soup I instantly recognized the smell and ran to see if I could steal a spoonful or two, I always had to wait for it to be ready, but managed to steal a cheese ball.
 
 ![My grandmother](/assets/img/grandma.jpg)
 
