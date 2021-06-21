@@ -1,20 +1,20 @@
 - name: Java
   percentage: 80
-  color: red
+  color: java
 
 - name: Go
   percentage: 70
-  color: teal
+  color: go
 
 - name: TypeScript
   percentage: 70
-  color: info
+  color: #2f75c1
 
 - name: HTML5
   percentage: 90
-  color: orange
+  color: html
 
 - name: Python
-  percentage: 40
-  color: yellow
+  percentage: 30
+  color: python
 
