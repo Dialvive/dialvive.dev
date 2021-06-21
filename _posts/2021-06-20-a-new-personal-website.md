@@ -1,8 +1,8 @@
 ---
 title: A new personal website
 tags: [Personal]
-style: fill
-color: light
+style: border
+color: primary
 description: Yet another software developer personal website/blog
 ---
 
