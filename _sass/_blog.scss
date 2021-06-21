@@ -16,6 +16,11 @@
 }
 
 .post {
+  .caption {
+    text-align: center;
+    text-decoration-style: italic;
+  }
+
   .post-metadata {
     font-size: 14px;
     margin-top: -6px;
@@ -49,12 +54,7 @@
     display: block;
     max-width: 90%;
     height: auto;
-    margin: 1rem auto;
-    em {
-      display: inline-flex;
-      align-self: center;
-      text-align: center;
-    }
+    margin: 32px auto 16px auto;
   }
 
   .video {
