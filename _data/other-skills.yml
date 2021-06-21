@@ -4,7 +4,7 @@
 
 - name: Google Cloud Platform (Compute, Storage, App Engine)
   percentage: 60
-  color: primary
+  color: #f9cd3f
 
 - name: Mexican Sign Language (LSM)
   percentage: 30
