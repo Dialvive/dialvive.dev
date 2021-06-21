@@ -39,13 +39,13 @@ This soup is not only great for kids, this soup was cooked everytime the family 
 
 2. Liquify the tomatoes and onion.
 
-3. Melt the butter in a cooking pot, and fry the liquified tomatoes an onions.
+3. Melt the butter in a cooking pot, and fry the liquified tomatoes and onions.
 
 4. Once the liquid changes color, pour in the chicken stock and boil.
 
 5. In a bowl, put in the cheese, raw egg, flour, baking soda, and salt and pepper to taste. Mix them until a somewhat sticky dough is made. If it is too sticky, add a little more flour.
 
-6. Once the pot is boiling, form little balls (between 3 and 5 centimeters) of the cheese dough, and put them in the pot one by one.
+6. Once the pot is boiling, form little balls (between 3 and 5 centimeters of diameter) of the cheese dough, and put them in the boiling pot one by one.
 
 7. When you finish adding the cheese dough balls into the pot, lower the heat and let the soup simmer for at least 10 minutes.
 
