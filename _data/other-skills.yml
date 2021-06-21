@@ -1,11 +1,11 @@
 - name: Agile Developmrnt Methodologies (Kanban & SCRUM)
   percentage: 80
-  color: primary
+  color: blue
 
 - name: Google Cloud Platform (Compute, Storage, App Engine)
   percentage: 60
-  color: #f9cd3f
+  color: cyan
 
 - name: Mexican Sign Language (LSM)
   percentage: 30
-  color: success
+  color: green

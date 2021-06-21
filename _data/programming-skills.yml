@@ -1,23 +1,23 @@
 - name: Full Stack Development (Web)
   percentage: 100
-  color: primary
+  color: blue
 
 - name: Object Oriented Programming
   percentage: 90
-  color: primary
+  color: indigo
 
 - name: Functional Programming
   percentage: 60
-  color: primary
+  color: purple
 
 - name: Database Design & SQL
   percentage: 90
-  color: primary
+  color: pink
 
 - name: REST & SOAP APIs
   percentage: 60
-  color: primary
+  color: red
 
 - name: Version control (Git)
   percentage: 85
-  color: primary
+  color: orange
