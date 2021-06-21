@@ -13,13 +13,14 @@ $text-white: rgba(white, .9);
 $rounded-borders: 15px;
 
 $custom-colors: (
-    $java:      #c74634
-    $go:        #2dbcaf
-    $typescript:#2f75c1
-    $python:    #f9cd3f
-    $html:      #ef652a
-    $angular:   #d90030
-    $bootstrap: #7952b3
+    "java":      #c74634
+    "go":        #2dbcaf
+    "typescript":#2f75c1
+    "python":    #f9cd3f
+    "html":      #ef652a
+    "angular":   #d90030
+    "bootstrap": #7952b3
+    "teal":      #20c997
 );
 
 $theme-colors: map-merge($theme-colors, $custom-colors);
