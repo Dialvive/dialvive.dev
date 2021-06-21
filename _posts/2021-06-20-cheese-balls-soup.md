@@ -16,8 +16,6 @@ This soup is not only great for kids, this soup was cooked everytime the family 
 
 ## Ingredients (Yields 4 portions)
 
-**Vegetarian & Vegan note:** You can easily switch chicken stock with vegetable stock, dairy cheese with a veggie cheese alternative as long as it melts, and butter with margarine without hydrogenated oils.
-
 - 1½ liters chicken stock,
   
 - 100 grams Chihuahua cheese (You can use other yellow, soft, flavorful cheese),
@@ -31,6 +29,8 @@ This soup is not only great for kids, this soup was cooked everytime the family 
 - 2 tablespoons of flour,
 
 - ¼ teaspoon baking soda.
+
+:herb: **Vegetarian & Vegan note:** You can easily switch chicken stock with vegetable stock, dairy cheese with a veggie cheese alternative as long as it melts, and butter with margarine without hydrogenated oils.
 
 ## Procedure
 
