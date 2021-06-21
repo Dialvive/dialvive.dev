@@ -1,0 +1,21 @@
+- name: Java
+  percentage: 80
+  color: java
+
+- name: Go
+  percentage: 70
+  color: go
+
+- name: TypeScript
+  percentage: 70
+  color: typescript
+
+- name: HTML5
+  percentage: 90
+  color: html
+
+- name: Python
+  percentage: 60
+  color: python
+
+  

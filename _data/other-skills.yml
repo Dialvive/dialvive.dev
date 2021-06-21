@@ -1,7 +1,11 @@
-- name: Git
-  percentage: 95
-  color: info
-
-- name: Agile Methodologies
+- name: Agile Developmrnt Methodologies (Kanban & SCRUM)
   percentage: 80
+  color: primary
+
+- name: Google Cloud Platform (Compute, Storage, App Engine)
+  percentage: 60
+  color: primary
+
+- name: Mexican Sign Language (LSM)
+  percentage: 30
   color: success

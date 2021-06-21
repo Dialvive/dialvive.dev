@@ -12,6 +12,8 @@ I am an ambitious and creative student, committed to my values. I believe in the
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
+{% include about/skills.html title="Programming Languages" source=site.data.programming-languages %}
+{% include about/skills.html title="Frameworks" source=site.data.frameworks %}
 {% include about/skills.html title="Other Skills" source=site.data.other-skills %}
 </div>
 

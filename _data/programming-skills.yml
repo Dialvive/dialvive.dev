@@ -1,11 +1,23 @@
-- name: Java
-  percentage: 80
-  color: danger
+- name: Full Stack Development (Web)
+  percentage: 100
+  color: primary
 
-- name: Go
+- name: Object Oriented Programming
+  percentage: 90
+  color: primary
+
+- name: Functional Programming
   percentage: 60
-  color:
+  color: primary
 
-- name: Angular
-  percentage: 80
-  color: secondary
+- name: Database Design & SQL
+  percentage: 90
+  color: primary
+
+- name: REST & SOAP APIs
+  percentage: 60
+  color: primary
+
+- name: Version control (Git)
+  percentage: 85
+  color: primary
