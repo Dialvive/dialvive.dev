@@ -1,7 +1,7 @@
 - name: Angular
   percentage: 90
-  color: d90030
+  color: angular
 
 - name: Bootstrap 4 & 5
   percentage: 90
-  color: 7952b3
+  color: bootstrap
