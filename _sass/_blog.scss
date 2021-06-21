@@ -15,12 +15,12 @@
   }
 }
 
-.post {
-  .caption {
-    text-align: center;
-    text-decoration-style: italic;
-  }
+.caption {
+  text-align: center;
+  text-decoration-style: italic;
+}
 
+.post {
   .post-metadata {
     font-size: 14px;
     margin-top: -6px;
@@ -54,7 +54,10 @@
     display: block;
     max-width: 90%;
     height: auto;
-    margin: 32px auto 16px auto;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .video {
