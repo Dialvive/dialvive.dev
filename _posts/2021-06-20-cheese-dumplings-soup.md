@@ -1,5 +1,5 @@
 ---
-title: Grandma's Cheese dumplings soup
+title: Grandma's cheese dumplings soup
 tags: [Recipes, Soups]
 style: fill
 color: warning
