@@ -9,7 +9,7 @@
 }
 
 #theme-toggler:before {
-  @include themed(content, "🌙", "🌞");
+  @include themed(content, ":electric_plug:", ":bulb:");
 }
 
 .navbar-themed {
