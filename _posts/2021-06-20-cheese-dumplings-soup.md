@@ -15,8 +15,6 @@ There were many times in my childhood when I was doing anything in my house, whe
 
 This soup is not only great for kids, this soup was cooked everytime the family reunited, and it always was the star of the evening.
 
----
-
 ## Ingredients (Yields 4 portions)
 
 - 1½ liters chicken stock,
