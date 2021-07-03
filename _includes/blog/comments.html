@@ -1,5 +1,6 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-  <script id="utt-dark" #utt-dark
+<div id = "uttComments">
+  <script id="uttDark"
     src="https://utteranc.es/client.js"
     repo="Dialvive/dialvive.github.io"
     issue-term="pathname"
@@ -9,7 +10,7 @@
     async>
   </script>
 
-  <script id="utt-light" #utt-light
+  <script id="uttLight"
     src="https://utteranc.es/client.js"
     repo="Dialvive/dialvive.github.io"
     issue-term="pathname"
@@ -18,13 +19,17 @@
     crossorigin="anonymous"
     async>
   </script>
+</div>
 
 <script>
   const savedTheme = localStorage.getItem("theme");
+  const uttComments = document.getElementById("uttComments");
+  var uttLight = document.getElementById("uttLight");
+  var uttDark = document.getElementById("uttDark");
   if(savedTheme === themes.DARK){
-    utt-light.remove();
+    uttComments.removeChild("uttLight");
   } else {
-    utt-dark.remove();
+    uttComments.removeChild("uttDark");
   }
 </script>
 
