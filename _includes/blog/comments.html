@@ -1,13 +1,8 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
   <script>
-    const themes = {
-      LIGHT: "light",
-      DARK: "dark",
-    };
-    const savedTheme = localStorage.getItem("theme");
     const utterancesTheme = savedTheme === themes.DARK ? "github-light" : "github-dark";
   </script>
-  
+
   <script src="https://utteranc.es/client.js"
           repo="Dialvive/dialvive.github.io"
           issue-term="pathname"
