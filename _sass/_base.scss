@@ -26,7 +26,14 @@ body {
   }
 }
 
-.container-top {
+#ad-container {
+  display: none !important;
+  visibility: hidden !important;
+  max-width: 0px !important;
+  max-height: 0px !important;
+}
+
+#container-top {
   display: none !important;
   visibility: hidden !important;
   max-width: 0px !important;
