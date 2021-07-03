@@ -1,25 +1,10 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-  <div id="disqus_thread"></div>
-  <script type="text/javascript">
-    var disqus_shortname = '{{ site.disqus.shortname }}';
-    (function() {
-      var disqus = document.createElement('script');
-      disqus.type = 'text/javascript';
-      disqus.async = true;
-      disqus.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-      (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(disqus);
-    })();
+  <script src="https://utteranc.es/client.js"
+          repo="dialvive.github.io"
+          issue-term="pathname"
+          label="✨💬✨"
+          theme="preferred-color-scheme"
+          crossorigin="anonymous"
+          async>
   </script>
-  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
-(function($){
-    setInterval(() => {
-        $.each($('iframe'), (arr,x) => {
-            let src = $(x).attr('src');
-            if (src && src.match(/(ads-iframe)|(disqusads)/gi)) {
-                $(x).remove();
-            }
-        });
-    }, 300);
-})(jQuery);
 {%- endif -%}
