@@ -1,22 +1,31 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
-  <script>
-    const savedTheme = localStorage.getItem("theme");
-    if(savedTheme === themes.DARK){
-      <script src="https://utteranc.es/client.js"
-        repo="Dialvive/dialvive.github.io"
-        issue-term="pathname"
-        label="✨💬✨"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async/>
-    } else {
-      <script src="https://utteranc.es/client.js"
-        repo="Dialvive/dialvive.github.io"
-        issue-term="pathname"
-        label="✨💬✨"
-        theme="github-light"
-        crossorigin="anonymous"
-        async/>
-    }
+  <script id="utt-dark" #utt-dark
+    src="https://utteranc.es/client.js"
+    repo="Dialvive/dialvive.github.io"
+    issue-term="pathname"
+    label="✨💬✨"
+    theme="github-dark"
+    crossorigin="anonymous"
+    async>
   </script>
+
+  <script id="utt-light" #utt-light
+    src="https://utteranc.es/client.js"
+    repo="Dialvive/dialvive.github.io"
+    issue-term="pathname"
+    label="✨💬✨"
+    theme="github-light"
+    crossorigin="anonymous"
+    async>
+  </script>
+
+<script>
+  const savedTheme = localStorage.getItem("theme");
+  if(savedTheme === themes.DARK){
+    utt-light.remove();
+  } else {
+    utt-dark.remove();
+  }
+</script>
+
 {%- endif -%}
