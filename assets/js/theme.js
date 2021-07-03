@@ -35,6 +35,8 @@ function toggleTheme() {
   const newTheme = theme === themes.DARK ? themes.LIGHT : themes.DARK;
   setTheme(newTheme);
   localStorage.setItem(STORAGE_KEY, newTheme);
+  const utterancesTheme = newTheme === themes.DARK ? "github-light" : "github-dark";
+  iframe.contentWindow.postMessage({ type: "set-theme", theme: utterancesTheme },  "*")
 }
 
 function getTheme() {
