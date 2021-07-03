@@ -26,6 +26,12 @@
   const uttComments = document.getElementById("uttComments");
   var uttLight = document.getElementById("uttLight");
   var uttDark = document.getElementById("uttDark");
+  console.log(savedTheme)
+  console.log(uttComments)
+  console.log(uttDark.parentNode.parentNode)
+  console.log(uttLight.parentNode)
+  console.log(uttLight)
+
   if(savedTheme === themes.DARK){
     uttComments.removeChild(uttLight);
   } else {
