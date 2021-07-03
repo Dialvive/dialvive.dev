@@ -32,15 +32,9 @@ function initTheme() {
 
 function toggleTheme() {
   const theme = getTheme();
-  if(theme === themes.DARK){
-    setTheme(themes.LIGHT);
-    localStorage.setItem(STORAGE_KEY, themes.LIGHT);
-    utterances.theme = "github-light";
-  } else {
-    setTheme(themes.DARK);
-    localStorage.setItem(STORAGE_KEY, themes.Dark);
-    utterances.theme = "github-dark";
-  }
+  const newTheme = theme === themes.DARK ? themes.LIGHT : themes.DARK;
+  setTheme(newTheme);
+  localStorage.setItem(STORAGE_KEY, newTheme);
 }
 
 function getTheme() {
