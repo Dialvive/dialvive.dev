@@ -53,12 +53,7 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
-
-
-### Disqus ###
-disqus:
-  shortname: dialvive
-
+    
 
 ### Analytics ###
 analytics:
