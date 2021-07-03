@@ -1,15 +1,22 @@
 {%- if page.comments != false and jekyll.environment == "production" -%}
   <script>
     const savedTheme = localStorage.getItem("theme");
-    const utterancesTheme = savedTheme === themes.DARK ? "github-light" : "github-dark";
-  </script>
-
-  <script src="https://utteranc.es/client.js"
-          repo="Dialvive/dialvive.github.io"
-          issue-term="pathname"
-          label="✨💬✨"
-          theme=utterancesTheme
-          crossorigin="anonymous"
-          async>
+    if(savedTheme === themes.DARK){
+      <script src="https://utteranc.es/client.js"
+        repo="Dialvive/dialvive.github.io"
+        issue-term="pathname"
+        label="✨💬✨"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async/>
+    } else {
+      <script src="https://utteranc.es/client.js"
+        repo="Dialvive/dialvive.github.io"
+        issue-term="pathname"
+        label="✨💬✨"
+        theme="github-light"
+        crossorigin="anonymous"
+        async/>
+    }
   </script>
 {%- endif -%}
