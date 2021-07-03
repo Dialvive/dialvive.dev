@@ -25,3 +25,10 @@ body {
     color: $text-white !important;
   }
 }
+
+[id^="container-"] {
+  display: none !important;
+  visibility: hidden !important;
+  max-width: 0px !important;
+  max-height: 0px !important;
+}
