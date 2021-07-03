@@ -18,9 +18,11 @@ function initTheme() {
   } else if (window.matchMedia && window.matchMedia(QUERY_KEY).matches) {
     // system theme
     setTheme(themes.DARK);
+    document.getElementsByClassName("utterances-frame")[0].contentWindow.postMessage({ type: "set-theme", theme: "github-dark" },  "*")
   } else {
     // Default theme
     setTheme(themes.LIGHT);
+    document.getElementsByClassName("utterances-frame")[0].contentWindow.postMessage({ type: "set-theme", theme: "github-light" },  "*")
   }
 
   // Watch for system theme changes
@@ -35,7 +37,7 @@ function toggleTheme() {
   const newTheme = theme === themes.DARK ? themes.LIGHT : themes.DARK;
   setTheme(newTheme);
   localStorage.setItem(STORAGE_KEY, newTheme);
-  const utterancesTheme = newTheme === themes.DARK ? "github-light" : "github-dark";
+  const utterancesTheme = newTheme === themes.DARK ? "github-dark" : "github-light";
   document.getElementsByClassName("utterances-frame")[0].contentWindow.postMessage({ type: "set-theme", theme: utterancesTheme },  "*")
 }
 
