@@ -3,15 +3,15 @@ title: About Pests and Remedies for Vegetables
 tags: [Horticulture, Pests]
 style: border
 color: success
-description: My findings about common pests & their remedies for urban horticulture.
+description: My findings about common pests & their remedies for urban horticulture gardens.
 ---
 
 I've some experience with pests in my garden, the most common have been white flies, mildew, and snails. Luckily I have tested some solutions on several plants and found some that work, and others that failed (some even killed plants). I'll continue to update this page as I find out more solutions to horticulure pests.
 
 If you have  a solution to repel snails please let me know!
 
-
 Last update: 03/07/21
+
 | Solution | Works Against | Works for | Harmful for |
 |:--------:|---------------|------------|-------------|
 | [1] | White fly, Leaf miner, Cankerworm | Tomato, Zuccini, Soy, Calendula, Green Beans, Blackberry, Genovese Basil, Jalapeño Chili Pepper | Bell Pepper |
