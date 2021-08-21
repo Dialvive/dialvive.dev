@@ -6,7 +6,7 @@ color: primary
 description: Yet another software developer personal website/blog
 ---
 
-Well, here am I writing the first entry into my blog. What should you expect? Nothing in particular, I'll write sometimes about software development, tutorials, my personal kitchen recipies, experiences and updates on my horticulture adventures, and othertimes some general thoughts.
+Well, here am I writing the first entry into my blog. What should you expect? Nothing in particular, I'll write sometimes about software development, tutorials, my personal kitchen recipes, experiences and updates on my horticulture adventures, and othertimes some general thoughts.
 
 If we haven't met, let me introduce myself (although I find this a little awkward since I don't expect people on the internet to be interested in me... at least just yet): I'm currently a computer science student, I enjoy programming as much as product design, recently I have been working on [HandsApp.org](https://handsapp.org).
 
