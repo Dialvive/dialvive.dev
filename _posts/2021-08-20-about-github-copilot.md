@@ -12,7 +12,7 @@ of them, and talk about it's usability and usefulness.
 
 ![Space Odyssey 2001](/assets/img/hal.png "Space Odyssey 2001")
 <p class="caption">
-    Space Odyssey 2001: We can see two astronauts and Hal 9000 at the back, [SPOILER] the tool overcoming the humans (?).
+    Space Odyssey 2001: the tool overcoming the humans (?).
 </p>
 
 Many people are against the creation of self programming artificial intelligence, and while GitHub Copilot (Copilot from now on) is not quite there, it is a step forward.
