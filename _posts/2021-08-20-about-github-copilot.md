@@ -16,7 +16,7 @@ of them, and talk about it's usability and usefulness.
 </p>
 
 Many people are against the creation of self programming artificial intelligence, and while GitHub Copilot (Copilot from now on) is not quite there, it is a step forward.
-The moment I heard about copilot, I instantly went and register to the beta. After a week or so, I was accepted and I installed it into VSCode. Long story short: I is so
+The moment I heard about copilot, I instantly went and register to the beta. After a week or so, I was accepted and I installed it into VSCode. Long story short: It is so
 intrusive that makes it so annoyng to use. I was constantly distracted by it's continuos guessing, not like in an old fashoned IDE way (with a little pop up guessing up 
 to a line of code), no no, each guess occupied at least 3 or 4 lines of grey code in the same editor I was trying to write, and that happened almost randomly, making me
 stop writing, looking at the suggestion, discarding it (being way off of what I was trying to do), and continue writing until the next ~~distraction~~ *suggestion* arrived, 
