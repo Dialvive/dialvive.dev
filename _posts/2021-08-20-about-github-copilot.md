@@ -10,7 +10,7 @@ GitHub Copilot is no longer news, it has been around for a little while on devel
 devil/angel people say it is? I have downloaded and did some tests on non work or school related programs. There are some serious ethical issues around it, I'll explore some
 of them, and talk about it's usability and usefulness. 
 
-![My dear grandmother](/assets/img/hal.png "Space Odyssey 2001")
+![Space Odyssey 2001](/assets/img/hal.png "Space Odyssey 2001")
 <p class="caption">
     Space Odyssey 2001: We can see two astronauts and Hal 9000 at the back, [SPOILER] the tool overcoming the humans (?).
 </p>
@@ -30,7 +30,7 @@ right?
 
 Even if Copilot was -or were to become- that great, there are some questions that need to be asked, like: what data does Copilot uses to train itself? (It is trained with GitHub's
 public repositories, surprise!), What happens if a suggestion is identical to a code block in its training set? (It somehow links the public repo and its license), Is it
-compatible with open source licenses? (I'm not sufficently informed, but almost certainly not, see this (wonderful blog entry)[https://zephyrtronium.github.io/articles/copilot.html] if 
+compatible with open source licenses? (I'm not sufficently informed, but almost certainly not, see this [wonderful blog entry](https://zephyrtronium.github.io/articles/copilot.html) if 
 you want to dive into it).
 
 I firmly believe that Copilot is not a tool that will overcome human developers, nor enslave hummanity whatsoever. But I do think it is a really evil move from ~~Microsoft~~ 
