@@ -30,6 +30,10 @@
     background-color: $primary;
     color: white !important;
   }
+  
+  p {
+    line-height: 1.618; 
+  }
 
   footer {
     font-size: 10px;
