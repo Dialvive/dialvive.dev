@@ -3,9 +3,9 @@
   color: primary
 
 - name: Google Cloud Platform (Compute, Storage, App Engine)
-  percentage: 60
+  percentage: 50
   color: typescript
 
 - name: Mexican Sign Language (LSM)
-  percentage: 30
+  percentage: 40
   color: green
