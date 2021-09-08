@@ -5,19 +5,19 @@
 - name: Object Oriented Programming
   percentage: 100
   color: primary
+  
+- name: Database Design & SQL
+  percentage: 90
+  color: primary
+  
+- name: Version control (Git)
+  percentage: 90
+  color: primary
 
 - name: Functional Programming
   percentage: 60
   color: primary
 
-- name: Database Design & SQL
-  percentage: 90
-  color: primary
-
 - name: REST & SOAP APIs
   percentage: 60
-  color: primary
-
-- name: Version control (Git)
-  percentage: 90
   color: primary
