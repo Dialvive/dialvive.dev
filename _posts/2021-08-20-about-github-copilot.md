@@ -33,8 +33,7 @@ public repositories, surprise!), What happens if a suggestion is identical to a 
 compatible with open source licenses? (I'm not sufficently informed, but almost certainly not, see this [wonderful blog entry](https://zephyrtronium.github.io/articles/copilot.html) if 
 you want to dive into it).
 
-I firmly believe that Copilot is not a tool that will overcome human developers, nor enslave hummanity whatsoever. But I do think it is a really evil move from ~~Microsoft~~ 
+I firmly believe that Copilot is not a tool that will overcome human developers, nor enslave hummanity whatsoever. But I do think it is a really bad move from ~~Microsoft~~ 
 GitHub. I'm sure most big projects stored in GitHub wouldn't consent to have their open source code used to train a for-profit programming AI. If they actually ASKED developers
 if they would like to have their code analyzed and used to train and improve AI by GitHub itself, then they could have a solid ethical ground. Using user terms and conditions 
-to manipulate users and use their assets and contributions is nothing but an evil move. I just had a realization, should we really trust code (open source or not) to a for-profit 
-company that creates things like Copilot? It's obvious that respecting their users trust, and their repositories' licences is not a priority.
+to manipulate users and use their assets and contributions is nothing but an evil move.
