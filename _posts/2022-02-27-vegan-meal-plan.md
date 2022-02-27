@@ -2,7 +2,7 @@
 title: Vegan Weight Loss Meal Plan 1
 tags: [Recipes, Meal Plan]
 style: border
-color: success
+color: warning
 description: Meal plan for weight loss 1.
 ---
 
