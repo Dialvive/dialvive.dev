@@ -1,9 +1,31 @@
-- title: Software Developer, J.P. Morgan Chase & Co., MX
-  from: 2021
-  to: present
-  description: Process automation services & ETL.
+- title: Software Developer Engineer, J.P. Morgan Chase & Co., Mexico City
+  from: Jul 2021
+  to: Apr 2022
+  description: "OneSource State Apportionment:
+- Developed a distributed Pentaho PDI Job that validated two end-user products'' database data before and after DB engine migration in production. The Job validated single-digit terabytes of production data across multiple servers in under a day. Migrations go-live decision was also heavily based upon this tool’s generated reports.
+- General support and enhancements for product’s legacy code base in production.
 
-- title: Computer Science student, Universidad Nacional Autónoma de México
-  from: 2017
-  to: present
-  description: Faculty of Science, University City, Mexico City.
+Operational Transfer Pricing:
+- Led cloud migration of clients’ data. Developed a Java service that migrated single-digit terabytes of production data from Hadoop on-prem to cloud buckets. Managed an individual contributor.
+- Developed a Java program that analyzed and modified Job Entries for more than 300 PDI jobs as a Linux service. This development had record time from code design to production implementation. 
+- Upgraded and documented product’s legacy code. Improved code standards in the team (e.g. implementing OAS 3.1 API standard, and codebase JavaDoc & UML). Created Continuous Integration pipelines with GitHub Actions and sh/bash."
+
+- title: Software Developer Intern, J.P. Morgan Chase & Co., Mexico City
+  from: Jul 2021
+  to: Apr 2022
+  description: "Corporate & Investment Banking:
+    - Maintained and developed new data integration applications for derivative financial instruments, with which regulatory and compliance obligations were met, in addition to generating documents for the clients of the Line Of Business. 
+    - Proposed, designed, and led the development of a transactional and historical database in the cloud, prepared the migration of 57 applications and a three-digit amount of data in gigabytes, reducing between 3.4x and 21.8x times the execution time of the applications that used other DB."
+
+- title: Director & Generalist Dev, HandsApp.org, Remote
+  from: Jul 2020
+  to: Apr 2022
+  description: "- Created a company with an innovative sign language website on the cloud, from venture design to implementation. 
+    - Lead a team of 2 developers and hired a sign language collaborator. 
+    - Product owner, full-stack developer with Design Thinking, Lean Startup, and Kanban. Administered business & wrote legal documents. 
+    - This project formed part of Idea39 startup incubator in late 2020."
+
+- title: Computer Science student, Universidad Nacional Autónoma de México, Mexico City
+  from: Aug 2017
+  to: Jan 2022
+  description: Skills: Java · Object-Oriented Programming (OOP) · REST APIs · Go · Bash · Shell Scripting · SQL · Transact-SQL (T-SQL) · Agile Methodologies · Angular · TypeScript · Software Engineering · Product Development · Unit Testing · Database Design · Front-end Development · Scrum · Kanban · Linux · Git · MySQL · PostgreSQL · Bootstrap · Haskell · Functional Programming · Back-End Web Development · Full-Stack Development · Web Design · GitHub · English
