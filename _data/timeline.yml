@@ -2,19 +2,19 @@
   from: Jul 2021
   to: Apr 2022
   description:
-    "OneSource State Apportionment:\n - Developed a distributed Pentaho PDI Job that validated two end-user products' database data before and after DB engine migration in production. The Job validated single-digit terabytes of production data across multiple servers in under a day. Migrations go-live decision was also heavily based upon this tool’s generated reports.\n - General support and enhancements for product’s legacy code base in production.\nOperational Transfer Pricing:\n - Led cloud migration of clients’ data. Developed a Java service that migrated single-digit terabytes of production data from Hadoop on-prem to cloud buckets. Managed an individual contributor. \n- Developed a Java program that analyzed and modified Job Entries for more than 300 PDI jobs as a Linux service. This development had record time from code design to production implementation.\n - Upgraded and documented product’s legacy code. Improved code standards in the team (e.g. implementing OAS 3.1 API standard, and codebase JavaDoc & UML). Created Continuous Integration pipelines with GitHub Actions and sh/bash."
+    "Skills: Cloud Migration · Java · Object-Oriented Programming (OOP) · PDI · Docker · REST APIs · Amazon Web Services (AWS) · Cloud Development · Bash · Shell Scripting · Change Management · HBase · SQL · Agile Methodologies · Azure DevOps · Extract, Transform, Load (ETL) · Data Integration · Software Engineering · Scrum · Kanban · Linux · JavaScript · Git · PostgreSQL · Microsoft Excel · Design Thinking · Functional Programming · Full-Stack Development · Pentaho · GitHub"
 
 - title: Software Developer Intern, J.P. Morgan Chase & Co., Mexico City
   from: Jul 2021
   to: Apr 2022
-  description: |
-    "Corporate & Investment Banking:\n - Maintained and developed new data integration applications for derivative financial instruments, with which regulatory and compliance obligations were met, in addition to generating documents for the clients of the Line Of Business.\n - Proposed, designed, and led the development of a transactional and historical database in the cloud, prepared the migration of 57 applications and a three-digit amount of data in gigabytes, reducing between 3.4x and 21.8x times the execution time of the applications that used other DB."
+  description:
+    "Skills: Cloud Migration · Java · Object-Oriented Programming (OOP) · PDI · REST APIs · Cloud Development · Bash · Change Management · SQL · Transact-SQL (T-SQL) · Agile Methodologies · Jira · Extract, Transform, Load (ETL) · Data Integration · Software Engineering · Database Design · Scrum · Kanban · JavaScript · Git · Microsoft Excel · Oracle Database · Pentaho"
 
 - title: Director & Generalist Dev, HandsApp.org, Remote
   from: Jul 2020
   to: Apr 2022
   description:
-    "- Created a company with an innovative sign language website on the cloud, from venture design to implementation.\n- Lead a team of 2 developers and hired a sign language collaborator.\n- Product owner, full-stack developer with Design Thinking, Lean Startup, and Kanban. Administered business & wrote legal documents.\n- This project formed part of Idea39 startup incubator in late 2020."
+    "Skills: Object-Oriented Programming (OOP) · REST APIs · Google Cloud Platform (GCP) · Cloud Development · Go · Bash · Shell Scripting · Nginx · SQL · Transact-SQL (T-SQL) · Google Cloud Platform · Agile Methodologies · Angular · TypeScript · Software Engineering · Product Development · Unit Testing · Database Design · Front-end Development · Scrum · Kanban · Linux · Git · MySQL · Bootstrap · Design Thinking · Lean Startup · Back-End Web Development · Full-Stack Development · Web Design · GitHub"
 
 - title: Computer Science student, Universidad Nacional Autónoma de México, Mexico City
   from: Aug 2017
