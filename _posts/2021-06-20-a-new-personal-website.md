@@ -3,6 +3,7 @@ title: A new personal website
 tags: [Personal]
 style: border
 color: primary
+comments: true
 description: Yet another software developer personal website/blog
 ---
 
