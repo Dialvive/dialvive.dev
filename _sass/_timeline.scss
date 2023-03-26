@@ -16,6 +16,10 @@
 
   .timeline-item {
     position: relative;
+    
+    p {
+      max-width=100%;
+    }
 
     &:after {
       // Circle
