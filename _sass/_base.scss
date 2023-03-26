@@ -4,7 +4,7 @@ html {
 
 body {
   font-family: "Helvetica Neue", HelveticaNeue, "TeX Gyre Heros", TeXGyreHeros, FreeSans, "Nimbus Sans L", "Liberation Sans", Arimo, Helvetica, Arial, sans-serif;
-  transition: background-color 0.5s ease-out;
+  transition: background-color 0.25s ease-in-out;
   letter-spacing: 0.618px;
 }
 
@@ -12,10 +12,6 @@ p {
   font-size: 16px;
   max-width: 544px;
   transition: all 0.5s ease-out !important;
-}
-
-.card {
-  transition: background-color 0.5s ease-in !important;
 }
 
 .badge {
