@@ -1,3 +1,12 @@
+---
+title: How to Install Pentaho Data Integration
+tags: [Pentaho]
+style: border
+color: pentaho
+comments: false
+description: Learn to install any version of PDI
+---
+
 # How to Install Pentaho Data Integration
 
 ## Contents
