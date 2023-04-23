@@ -7,8 +7,6 @@ comments: false
 description: Learn to install any version of PDI
 ---
 
-# How to Install Pentaho Data Integration
-
 ## Contents
 
 - [Introduction](#Introduction)
