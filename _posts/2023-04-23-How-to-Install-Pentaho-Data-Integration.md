@@ -65,7 +65,7 @@ Note that PDI may not work properly with later versions of Java, so it's recomme
    - Mac:  `Applications/pentaho/design-tools/pdi-ce-X.X.x.x-xxx`
 9. \[Optional\] If you have or plan to have other Java versions, add to your environment variables:
    - `PENTAHO_JAVA_HOME`: put the path to the required Java installation folder.
-10. \[Optional\] There will be a data-integration folder within your installation directory. Open it, and create a shortcut to spoon.sh if you are using Linux or Mac, or to spoon.bat if using Windows. Rename it to "PDI ce X.X" where ce is community edition, and X.X it's version. Drag it to your desired location.
+10. \[Optional\] There will be a data-integration folder within your installation directory. Open it, and create a shortcut to spoon.sh if you are using Linux or Mac, or to spoon.bat if using Windows. Rename it to "PDI ce X.X" where ce is community edition, and X.X its version. Drag it to your desired location.
     - In Windows, you might want to copy the shortcut to `C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Pentaho` for it to appear in your startup menu.
     - If you are a terminal enthusiast, you might want to add the path to the appropriate spoon file to your PATH environment variable, or to your bash profile.
 
