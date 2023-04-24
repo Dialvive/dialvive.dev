@@ -7,16 +7,13 @@ comments: false
 description: Learn to install any version of PDI
 ---
 
-### Contents
-
 - [Introduction](#Introduction)
 - [Which version should I use?](#Version)
 - [How to install PDI](#Install)
 - [Conclusion](#Conclusion)
 - [References](#References)
 
-<a name="Introduction" class="anchor"></a>
-## Introduction
+## Introduction <a name="Introduction"></a>
 
 Pentaho Data Integration, or PDI, is a powerful open-source ETL tool. It extracts, transforms, and loads data for many applications. PDI has a visual interface to create data integration jobs. Users define data sources, manipulate data through functions, and specify the load location. In real-life, PDI combines data from various sources for analysis, reporting, or warehousing.
 
@@ -39,15 +36,13 @@ One important  note, there are two main versions of PDI available. Pentaho Enter
 
 In this blog I will focus only in PDI community version. It is worth mentioning that PDI community version is enough for many enterprise uses. You don't need the enterprise version for most use-cases, there's always a workaround for CE limitations.
 
-<a name="Version" class="anchor"></a>
-## Which version should I use?
+## Which version should I use? <a name="Version"></a>
 
 As any big application, PDI has Long-Term-Support and Short-Term-Support versions. I would suggest you always use an LTS version. Unless you are working with a legacy PDI implementation. Or you want to have the cutting-edge features.
 
 You can check the [support policy per version here.](https://support.pentaho.com/hc/en-us/articles/205789159-Pentaho-Product-Version-End-of-Life-Policy)
 
-<a name="Install" class="anchor"></a>
-## How to install PDI
+## How to install PDI <a name="Install"></a>
 
 If you don't have java installed, download the required Java version from your preferred JDK provider:
 
@@ -76,8 +71,7 @@ Note that PDI may not work properly with later versions of Java, so it's recomme
 
 You should be able to open Pentaho Data Integration, by executing your shortcut, or the spoon file.
 
-<a name="Conclusion" class="anchor"></a>
-## Conclusion
+## Conclusion <a name="Conclusion"></a>
 
 Not having an official installer, and having to install PDI manually might seem daunting. But as you now know, it'll only take a few minutes. Feel free to install multiple PDI versions using this same post.
 
@@ -85,8 +79,7 @@ Now you are able to explore PDI and play with it to get to know the interface an
 
 Coming next on this blog series, we will learn the PDI inner workings and components. Keep an eye for the next posts.
 
-<a name="References" class="anchor"></a>
-## References
+## References <a name="References"></a>
 
 - Hitachi Vantara (Dec/2022). *Installing Pentaho Data Integration CE*. <https://www.hitachivantara.com/en-us/pdf/implementation-guide/three-steps-to-install-pentaho-data-integration-ce.pdf>
 - Hitachi Vantara (No date). *Pentaho Community Edition (CE) Installation Guide for Windows - Whitepaper*. <https://www.hitachinext.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf>
