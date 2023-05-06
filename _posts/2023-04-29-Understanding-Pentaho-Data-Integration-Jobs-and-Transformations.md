@@ -60,3 +60,5 @@ Understanding the differences between Jobs and Transformations in Pentaho Data I
 - Hitachi Vantara (Mar/2018). *Basic Concepts of PDI: Transformations, Jobs and Hops*. <https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration/Data_Integration_Perspective/010>
 - Hitachi Vantara (Dec/2017). *Parameters*. <https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration/Data_Integration_Perspective/050/010>
 - Hitachi Vantara (Dec/2017). *Variables*. <https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration/Data_Integration_Perspective/050/020>
+
+#### Looking for the comments? Feel free to leave a comment on [LinkedIn](https://www.linkedin.com/pulse/discover-key-differences-between-jobs-transformations-diego-a-/?trackingId=rMeAzKWkQVWgN0WqMlPd6g%3D%3D) or [GitHub](https://github.com/Dialvive/dialvive.dev/issues/4). :speech_balloon:
