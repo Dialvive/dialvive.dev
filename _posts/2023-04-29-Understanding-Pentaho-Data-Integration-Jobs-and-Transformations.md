@@ -1,10 +1,10 @@
 ---
-title: Understanding Pentaho Data Integration: Jobs and Transformations
+title: "Understanding Pentaho Data Integration: Jobs and Transformations"
 tags: [Pentaho]
 style: border
 color: pentaho
 comments: false
-description: Learn to install any version of PDI
+description: Discover the Key Differences Between Jobs and Transformations in Pentaho Data Integration
 ---
 
 ## Contents <a name="Contents"></a>
