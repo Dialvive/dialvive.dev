@@ -84,5 +84,3 @@ Coming next on this blog series, we will learn the PDI inner workings and compon
 - Hitachi Vantara (Dec/2022). *Installing Pentaho Data Integration CE*. <https://www.hitachivantara.com/en-us/pdf/implementation-guide/three-steps-to-install-pentaho-data-integration-ce.pdf>
 - Hitachi Vantara (No date). *Pentaho Community Edition (CE) Installation Guide for Windows - Whitepaper*. <https://www.hitachinext.com/en-us/pdf/white-paper/pentaho-community-edition-installation-guide-for-windows-whitepaper.pdf>
 - Hitachi Vantara (Jun/22). *Install the PDI tools and plugins*. <https://help.hitachivantara.com/Documentation/Pentaho/9.3/Setup/Install_the_PDI_tools_and_plugins#cp_pentaho_perform_manual_install_of_pdi_design_tools_and_plugins>
-
-#### Looking for the comments? Feel free to leave a comment on [LinkedIn](https://www.linkedin.com/pulse/how-install-pentaho-data-integration-diego-a-villalpando-vel%C3%A1zquez) or [GitHub](https://github.com/Dialvive/dialvive.dev/issues/3). :speech_balloon:

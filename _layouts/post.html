@@ -1,44 +1,25 @@
 ---
-layout: page
+layout: default
 ---
-<article>
-  <h1><b>{{ page.title }}</b></h1>
 
-  <p class="post-metadata text-muted">
-    {{ page.date | date_to_long_string }} -  
-    <b>
-      {%- assign words = content | number_of_words -%}
-      {%- if words < 250 -%}
-        less than 1 min read time
-      {%- else -%}
-        {{ words | divided_by: 180 }} mins read time
-      {%- endif -%}
-    </b>
-    
-    <br>
-    
-    {%- if page.tags != empty -%}
-      Tags: 
-      {% for tag in page.tags %}
-      <a class="text-decoration-none no-underline" href="{{ tag | slugify | prepend:'/blog/tags#' | relative_url }}">
-        <span class="tag badge badge-pill text-primary border border-primary">{{ tag }}</span>
-      </a>
-      {% endfor %}
-    {%- endif -%}
-  </p>
-
-
+<div class="post">
+  <h1 class="post-title">{{ page.title }}</h1>
+  <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
-</article>
+</div>
 
-<section class="mt-5">
-  {% if page.comments %}
-  <div class="pt-2">
-    {% include blog/comments.html %}
-  </div>
-  {% endif %}
-  
-  <address class="post-metadata text-muted" style="text-align:center">
-    <i><a href="{{ page.permalink }}" xmlns:dct="http://purl.org/dc/terms/" property="dct:title" rel="cc:attributionURL">{{ page.title }}</a></i> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Diego Villalpando</span> is distributed under the <a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0 licence</a>.
-  </address>
-</section>
+<div class="related">
+  <h2>Related Posts</h2>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <h3>
+          <a href="{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+          </a>
+        </h3>
+      </li>
+    {% endfor %}
+  </ul>
+</div>

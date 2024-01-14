@@ -1,83 +1,27 @@
-### Site Settings ###
-title               : Diego Villalpando
-description         : >-
-                      Software developer,
-                      gastronomy & horticulture hobbyist.
-baseurl             : ""
-repository          : dialvive/dialvive.github.io
+# Dependencies
+#markdown:         redcarpet
+#highlighter:      pygments
 
+# Permalinks
+permalink:        pretty
 
-### Plugins ###
-plugins:
-  - jemoji
+# Setup
+title:            Dialvive
+tagline:          "Another software developer's blog"
+description:      'A nerdy, foodie, software developer.'
+url:              https://dialvive.dev
+baseurl:          ""
 
+plugins:          [jekyll-paginate]
 
-### Navbar Settings ###
-nav_exclude:                                            # The following paths are excluded from navbar
-  - pages/tags.html
-  - pages/404.html
-  - pages/index.md
-
-### Author Info ###
 author:
-  name              : Diego Villalpando
-  image             : https://avatars.githubusercontent.com/u/30503143
-# behance           : your_username
-# dribbble          : your_username
-  email             : hola@dialvive.dev
-# facebook          : your_username
-  github            : dialvive
-# gitlab            : dialvive
-# instagram         : your_username
-# kaggle            : your_username
-  linkedin          : diegovillalpando
-# medium            : your_username
-# soundcloud        : your_username
-  spotify           : diego_vllpnd
-  stackoverflow     : 9159340
-# tumblr            : your_username.tumblr.com
-# twitch            : your_username
-# twitter           : your_username
-# vimeo             : your_username
-# youtube           : your_channel_name
-# keybase           : your_username
-  rss               : atom
+  name:           'Diego Villalpando'
+  url:            https://www.linkedin.com/in/diegovillalpando/
 
+paginate:         5
 
-### Posts ###
-permalink: /blog/:year/:month/:day/:title
+# Custom vars
+version:          2.0
 
-
-### Collections ###
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name
-    
-
-### Analytics ###
-analytics:
-  enabled: true
-  google:
-    tracking_id: G-S0DCXYPLYZ
-
-
-### Defaults for collections ###
-defaults:
-  - scope:
-      path: ""
-      type: "projects"
-    values:
-      layout: "page"
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      comments: true
-
-### Exclude from processing ###
-exclude:
-  - README.md
-  - CONTRIBUTING.md
-  - LICENSE
-  - "*.log"
+github:
+  repo:           https://github.com/Dialvive/dialvive.dev

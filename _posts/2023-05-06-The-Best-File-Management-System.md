@@ -17,8 +17,6 @@ There are frameworks that help us to use a File Management System in a secure wa
 
 Serving files through applications is really useful in some cases, they may allow an application to import or export data in a friendly and structured way without using an API for less tech savvy final users (specially in a B2C setting). And just passing files from one place to another may seem like the fastest and easiest solution for this purpose, but at what cost? It will not take much time for you to realize that the security hardening of such system will take a lot of effort, time, and money.
 
-![Michelin Tires](https://media.licdn.com/dms/image/D5612AQEG_yzVm3jpPA/article-inline_image-shrink_1500_2232/0/1683406698150?e=1688601600&v=beta&t=CxPYkgtMPk-XOgjB927WPItqT68oOgDScudKLih9XtU "Michelin Tires. Photo by Michelin Motorsport Rally, licenced under CC BY-NC-ND 2.0")
-
 ### Concerns with File-based Application Storage
 
 - **Lack of Data Integrity and Consistency**: File systems do not provide built-in mechanisms for ensuring data consistency, enforcing referential integrity, or handling concurrency. Ensuring data integrity and consistency becomes the responsibility of the application or developers. Don't you want some ACID (Atomicity, Consistency, Integrity, Durability)?
@@ -30,8 +28,6 @@ Serving files through applications is really useful in some cases, they may allo
 - **Vulnerabilities and Security Risks**: Common Weakness Enumerations (CWE) such as 22 to 59, 61 to 67, 69, 72, 73, 98, 219, 378, 379, 426, 427, 428, 434, 552, 538, 541, and 775, highlight the potential dangers associated with file-based storage. By avoiding files altogether, we can mitigate these risks and enhance the overall security posture of our application by design.
 
 - **Added Maintenance Overhead**: Most file management systems, especially Windows or Linux operating systems, require an additional layer of maintenance. This includes regular updates, patches, security configurations, and monitoring to ensure the stability and security of the operating system. And really, if we are building a new application, are we really setting up a full featured Linux or Windows server for our application these days? Probably serving a minimal Docker image will suffice.
-
-![Mail processing facility in NYC 1924](https://media.licdn.com/dms/image/D5612AQEGNOfEE2LnQg/article-inline_image-shrink_1500_2232/0/1683405521920?e=1688601600&v=beta&t=Pi6CVFOBfOM-e_xqss_CFkjyjIeor8_GGT0QahlsNEQ "Mail processing facility in NYC 1924. Photo by The Smithsonian Institution, licenced under CC Zero")
 
 ### Advantages of Using a Document-based Database
 
@@ -58,5 +54,3 @@ Relying on an application to serve or manage files through a file management sys
 By avoiding the use of file management systems and embracing document-based databases, we can mitigate security risks, enhance data integrity, and streamline data management processes. It's a step towards a more secure and efficient application architecture.
 
 Sometimes the best file management system is simply not having files altogether.
-
-#### Looking for the comments? Feel free to leave a comment on [LinkedIn](https://www.linkedin.com/pulse/what-best-file-management-system-diego-a-villalpando/) or [GitHub](https://github.com/Dialvive/dialvive.dev/issues/5). :speech_balloon:

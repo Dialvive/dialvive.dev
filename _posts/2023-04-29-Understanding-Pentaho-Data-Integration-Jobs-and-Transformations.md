@@ -34,11 +34,7 @@ Both Jobs and Transformations contain various components to create robust ETL wo
 
 - **Job Entries** represent the different tasks or processes that need to be executed as part of the job. Job entries can include Transformations, shell scripts, database operations, file operations, and more. Each job entry performs a specific task and can be configured with various options and parameters.
 
-![A list of Job Entries](https://media.licdn.com/dms/image/D5612AQE6lCJCelMB1w/article-inline_image-shrink_1500_2232/0/1682795831213?e=1688601600&v=beta&t=VXcszLbWca4ANDz76DkuoG6QAnZERBtgnBu1zyptYdM "Most of the available Job Entries of PDI 9.3")
-
 - **Transformation Steps** represent the actions performed on the data during the ETL process. Each step performs a specific operation on the data (whether it is to read, transform, or write) and can be configured with various options and parameters to achieve the desired results.
-
-![A list of Transformation Steps](https://media.licdn.com/dms/image/D5612AQE6c7qhHvIsqw/article-inline_image-shrink_1500_2232/0/1682795910008?e=1688601600&v=beta&t=hoNahnzOxnHqDnkFUjhWdUOtWQ2eJ-5L8N4y16xt6C0)
 
 ## Shared Elements
 
@@ -60,5 +56,3 @@ Understanding the differences between Jobs and Transformations in Pentaho Data I
 - Hitachi Vantara (Mar/2018). *Basic Concepts of PDI: Transformations, Jobs and Hops*. <https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration/Data_Integration_Perspective/010>
 - Hitachi Vantara (Dec/2017). *Parameters*. <https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration/Data_Integration_Perspective/050/010>
 - Hitachi Vantara (Dec/2017). *Variables*. <https://help.hitachivantara.com/Documentation/Pentaho/8.0/Products/Data_Integration/Data_Integration_Perspective/050/020>
-
-#### Looking for the comments? Feel free to leave a comment on [LinkedIn](https://www.linkedin.com/pulse/discover-key-differences-between-jobs-transformations-diego-a-/?trackingId=rMeAzKWkQVWgN0WqMlPd6g%3D%3D) or [GitHub](https://github.com/Dialvive/dialvive.dev/issues/4). :speech_balloon:
